@@ -1,0 +1,14 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "A Wild Code School Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre R.",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
